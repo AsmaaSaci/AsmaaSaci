@@ -1,9 +1,9 @@
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20.NET%20Developer;C%23%20%7C%20ASP.NET%20Core%20%7C%20SQL%20%7C%20React;Passionate%20about%20problem-solving;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20.NET%20Developer;C%23%20%7C%20ASP.NET%20Core%20%7C%20SQL%20%7C%20React;Passionate%20about%20problem-solving;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=600&height=60&color=f75c7e&vCenter=true&pause=1000&size=30" />
   </a>
 </p>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack </b>
 
