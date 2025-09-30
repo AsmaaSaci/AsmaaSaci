@@ -5,8 +5,7 @@
   </a>
 </p>
 
-
-## 🚀 Tech Stack 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack </b>
 
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2b%2b&logoColor=white)
@@ -29,28 +28,35 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
----
-
 ## 💻 About Me
+
+<div>
+  <img align="right" alt="coding girl" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+  
 - 🚀 Full-Stack .NET Developer (**C#, ASP.NET Core, SQL, React**)  
 - 💻 Building **scalable web applications** & interactive UIs  
 - 🌱 Passionate about **problem-solving & continuous learning**  
 - 🔍 Ask me about **Full-Stack development, SQL, C#, or React**  
 - 📬 Connect with me: **[gmail](mailto:asmaasaci2001@gmail.com)**
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaaSaci&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaSaci&layout=compact&theme=dark&hide_border=true" width="46%" />
 </div>
 
----
+<br/>
 
-## 🌟 Fun Fact
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b>
 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="25" /> &nbsp; I love experimenting with **new frameworks & tech tools**  
-<img src="https://media.giphy.com/media/3o7aD4WZ4e2eB9rKxK/giphy.gif" width="25" /> &nbsp; Currently learning **React advanced patterns & ASP.NET Core best practices**  
+<br />
 
----
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=AsmaaSaci&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaaSaci&theme=ambient_gradient" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+</br>
+
+
