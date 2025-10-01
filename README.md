@@ -56,7 +56,11 @@
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaaSaci&theme=ambient_gradient" alt="Streak Stats"/>
 </td>
 </tr>
+
+<tr>
+<td colspan="2" align="center">
+  <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaSaci&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</td>
+</tr>
 </table>
 </br>
-
-
